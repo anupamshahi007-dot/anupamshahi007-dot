@@ -76,6 +76,64 @@ I believe in learning by building real projects and sharing my journey publicly.
 </p>
 
 ---
+---
+
+# 🚀 Featured Projects
+
+### 🛡️ Python Network Packet Sniffer & Protocol Analyzer
+
+A beginner-friendly cybersecurity project that captures and analyzes live network packets using Python and Scapy.
+
+**Highlights**
+- Live packet capture
+- TCP / UDP / ICMP / ARP analysis
+- Protocol filtering
+- Educational documentation
+- Open-source ready
+
+👉 **Repository:** https://github.com/anupamshahi007-dot/CodeAlpha_packet-sniffer-demo
+
+---
+
+### 🌱 More Projects Coming Soon
+
+I'm currently building projects in:
+
+- Python
+- Cybersecurity
+- Networking
+- Automation
+- Artificial Intelligence
+
+Stay tuned!
+
+---
+
+# 🌱 My Learning Journey
+
+```text
+✅ Git & GitHub
+✅ Python Basics
+🔄 Object-Oriented Programming
+🔄 Networking
+🔄 Cybersecurity
+⬜ Linux
+⬜ APIs
+⬜ Web Development
+⬜ Machine Learning
+⬜ Cloud Computing
+```
+---
+
+# 🎯 2026 Goals
+
+- Build 20+ Python Projects
+- Learn Cybersecurity Fundamentals
+- Master Git & GitHub
+- Contribute to Open Source
+- Learn Networking
+- Explore AI Development
+- Build a Professional Portfolio
 
 ## 🔥 GitHub Streak
 
