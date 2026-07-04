@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Anupam+Shahi+Vishen;Python+Learner;Cybersecurity+Enthusiast;Networking+Explorer;AI+Explorer;Learning+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupamshahi007-dot&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anupam Shahi Vishen</h1>
 
 <h3 align="center">
