@@ -5,7 +5,7 @@ Hi — I'm Anupam. I'm building practical AI projects focused on prompt engineer
 - 🔭 Currently building: a public portfolio, curated prompt collections, and a learning journal with weekly notes and mini case studies.
 - 🌱 Learning: prompt engineering, LLM evaluation, retrieval-augmented generation, and MLOps basics.
 - 🎯 Target roles: Junior ML Engineer / Prompt Engineer / AI Research Intern — open to remote and contract opportunities.
-- 📫 Contact: your-email@example.com • GitHub: [@anupamshahi007-dot](https://github.com/anupamshahi007-dot)
+- 📫 Contact: anupam.shahi007@gmail.com • GitHub: [@anupamshahi007-dot](https://github.com/anupamshahi007-dot)
 
 ---
 
@@ -37,9 +37,9 @@ I focus on learning by building: small, testable experiments, repeatable notes, 
 ## Resume & Links
 
 - Resume: (link to PDF or Google Drive)
-- Email: your-email@example.com
+- Email: anupam.shahi007@gmail.com
 - Twitter / X: (optional)
 
 ---
 
-_Please replace placeholder contact links with your real email and resume link._
+_Please replace placeholder resume link if you want a public resume attached._
