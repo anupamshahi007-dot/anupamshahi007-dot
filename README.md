@@ -6,6 +6,22 @@
   <img src="https://komarev.com/ghpvc/?username=anupamshahi007-dot&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<p align="center">
+
+<a href="https://github.com/anupamshahi007-dot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Anupam Shahi Vishen</h1>
 
 <h3 align="center">
@@ -162,3 +178,9 @@ Stay tuned!
 </p>
 
 > *"Every expert was once a beginner who refused to quit."*
+> ---
+
+## 💡 Favorite Quote
+
+> **"Success is the sum of small efforts, repeated day in and day out."**  
+> — Robert Collier
