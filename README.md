@@ -1,88 +1,45 @@
-<h1 align="center">Anupam Shahi Vishen</h1>
+# Anupam Shahi — AI Learner & Builder
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Enthusiast;Prompt+Engineering+Specialist;Full-Stack+Developer;Automation+Expert" alt="Typing SVG" />
-</p>
+Hi — I'm Anupam. I'm building practical AI projects focused on prompt engineering, tooling, and reproducible learning. I'm honest about being early in my career and focused on rapid, demonstrable growth.
 
-<div align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
-  <a href="https://github.com/anupamshahi007-dot" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-</div>
+- 🔭 Currently building: a public portfolio, curated prompt collections, and a learning journal with weekly notes and mini case studies.
+- 🌱 Learning: prompt engineering, LLM evaluation, retrieval-augmented generation, and MLOps basics.
+- 🎯 Target roles: Junior ML Engineer / Prompt Engineer / AI Research Intern — open to remote and contract opportunities.
+- 📫 Contact: your-email@example.com • GitHub: [@anupamshahi007-dot](https://github.com/anupamshahi007-dot)
 
 ---
 
-## 👤 About Me
+## Featured projects
 
-I'm a passionate AI enthusiast and developer focused on **Artificial Intelligence**, **Prompt Engineering**, and **Automation**. I actively document my learning journey through GitHub while building practical solutions and sharing knowledge with the community.
+- **portfolio** — My public portfolio and case studies: https://github.com/anupamshahi007-dot/portfolio
+- **learning-journal** — Weekly learning notes, mini case studies, and experiment logs: https://github.com/anupamshahi007-dot/learning-journal
 
-- 🎯 **Focus Areas**: AI, Prompt Engineering, Automation, Full-Stack Development
-- 📚 **Current Path**: Building AI-powered solutions and mastering prompt engineering
-- 🌐 **Philosophy**: Learn in public, share knowledge, and create impact
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**AI & Tools**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-00C4FF?style=flat-square)
-
-</div>
+Other repositories:
+- ai-prompts — Curated prompt collections and usage examples
+- prompt-engineering — Notes and templates for prompt design
+- awesome-ai-tools — Curated list of AI tools and resources
+- youtube-resources — Video resources I follow while learning
 
 ---
 
-## 🎓 Currently Learning
+## About my process
 
-- **Artificial Intelligence** - Fundamentals and applications
-- **Prompt Engineering** - Crafting effective AI interactions
-- **Full-Stack Development** - End-to-end project development
-- **Automation** - Streamlining workflows and processes
-- **Content Creation** - Documenting learning and sharing insights
+I focus on learning by building: small, testable experiments, repeatable notes, and clear write-ups. My goal is to convert learning into sharable artifacts (notebooks, short demos, and case studies) so recruiters and collaborators can evaluate my work quickly.
 
----
+## How you can evaluate my work
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupamshahi007-dot&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&cache_seconds=3600)](https://github.com/anupamshahi007-dot)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamshahi007-dot&layout=pie&theme=github_dark&hide_border=false&cache_seconds=3600)](https://github.com/anupamshahi007-dot)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anupamshahi007-dot&theme=dark&hide_border=true)](https://github.com/anupamshahi007-dot)
-
-</div>
+1. Visit the portfolio repo for polished case studies and links to demos.
+2. Browse the learning-journal for recent experiment notes and what I learned this week.
+3. Open issues or PRs on any repo — I welcome feedback, suggestions, and collaboration.
 
 ---
 
-## 🎯 2026 Objectives
+## Resume & Links
 
-- ✅ Build and deploy 3+ production-ready AI-powered projects
-- ✅ Master advanced prompt engineering techniques
-- ✅ Create a portfolio of 10+ impactful open-source repositories
-- ✅ Share weekly technical insights and learning updates
-- ✅ Contribute to community-driven AI and automation initiatives
+- Resume: (link to PDF or Google Drive)
+- Email: your-email@example.com
+- Twitter / X: (optional)
 
 ---
 
-## 📬 Let's Connect
-
-I'm always interested in collaborating on AI projects, discussing prompt engineering strategies, or sharing knowledge about automation and development. Feel free to reach out!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-anupam.shahi007@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:anupam.shahi007@gmail.com)
-
-**⭐ Thank you for visiting my profile. Let's build something amazing together!**
-
-</div>
+_Please replace placeholder contact links with your real email and resume link._
