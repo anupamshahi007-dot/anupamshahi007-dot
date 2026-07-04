@@ -1,7 +1,7 @@
 <h1 align="center">Anupam Shahi Vishen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Enthusiast;Prompt+Engineering+Specialist;Full-Stack+Learner;Building+Tomorrow's+Solutions"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Enthusiast;Prompt+Engineering+Specialist;Full-Stack+Developer;Automation+Expert" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-I'm a passionate AI enthusiast and developer focused on **Artificial Intelligence**, **Prompt Engineering**, and **Automation**. I actively document my learning journey through GitHub while building practical projects that solve real-world problems. My goal is to bridge the gap between theoretical AI concepts and practical implementation.
+I'm a passionate AI enthusiast and developer focused on **Artificial Intelligence**, **Prompt Engineering**, and **Automation**. I actively document my learning journey through GitHub while building practical solutions and sharing knowledge with the community.
 
 - 🎯 **Focus Areas**: AI, Prompt Engineering, Automation, Full-Stack Development
 - 📚 **Current Path**: Building AI-powered solutions and mastering prompt engineering
@@ -55,11 +55,11 @@ I'm a passionate AI enthusiast and developer focused on **Artificial Intelligenc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupamshahi007-dot&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupamshahi007-dot&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&cache_seconds=3600)](https://github.com/anupamshahi007-dot)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamshahi007-dot&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamshahi007-dot&layout=pie&theme=github_dark&hide_border=false&cache_seconds=3600)](https://github.com/anupamshahi007-dot)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anupamshahi007-dot&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anupamshahi007-dot&theme=dark&hide_border=true)](https://github.com/anupamshahi007-dot)
 
 </div>
 
